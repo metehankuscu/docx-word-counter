@@ -1,7 +1,7 @@
 import os
 from docx import Document
 
-folder_path = "C:/Users/metek/Desktop/Makaleler"
+folder_path = "example/docx/path"
 total_word_count = 0
 
 for filename in os.listdir(folder_path):
@@ -12,4 +12,4 @@ for filename in os.listdir(folder_path):
             word_count += len(para.text.split())
         total_word_count += word_count
 
-print("Toplam Kelime Sayısı: ", total_word_count)
+print("Total Word Count: ", total_word_count)
