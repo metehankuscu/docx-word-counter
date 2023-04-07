@@ -12,6 +12,6 @@ If you have a one folder, and folder has soo many docx file, you can easly get w
 
 - You just need to specify the folder path
 
-<b>Example Output</b>
+## Example Output
 
 Total Word Count: 24.684
