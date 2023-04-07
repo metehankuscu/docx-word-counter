@@ -10,7 +10,7 @@
 
 If you have a one folder, and folder has soo many docx file, you can easly get word count by docx file.
 
-- [You just need to specify the folder path]
+- You just need to specify the folder path
 
 Example Output
 
