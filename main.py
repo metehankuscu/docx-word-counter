@@ -1,7 +1,7 @@
 import os
 from docx import Document
 
-folder_path = "example/docx/path"
+folder_path = "example/all-docx-files/path"
 total_word_count = 0
 
 for filename in os.listdir(folder_path):
